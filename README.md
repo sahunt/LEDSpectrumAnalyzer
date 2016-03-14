@@ -12,7 +12,7 @@ This project uses LDP8806 LEDs to create a spectrum analyzer which reacts to sou
 
 The light bar is using an Arduino with a VU shield to control the LEDs. The LDP8806 LEDs are individually addressable so they can make some nifty patterns. The audio is fed directly through an audio cable coming from the PC. The frequency of the audio is converted to data through an FFT library which tells the lights how to behave.
 
-The light display is based of the visualizatons from sound equalizers. With a traditional equalizer, vertical bars show peaks to represent sound frequency. For this setup vertical bars are chained together by the ends to create a horizontal bar which "peaks" at both ends.
+The light display is based of the visualizatons from sound equalizers. With a traditional equalizer, vertical bars show peaks to represent sound frequency. For this setup vertical bars are chained together by the ends to create three horizontal bars (38 LEDs long) which "peak" at both ends.
 
 ##Todo/Wishlist
 
