@@ -2,6 +2,8 @@
 
 This project uses LDP8806 LEDs to create a spectrum analyzer which reacts to sound input via 3.5mm audio cable.
 
+Full tutorial on construction can be found [here](http://www.hackmycab.com/?portfolio=spectrum-analyzer-led-bar).
+
 [![LED Spectrum Analyzer on YouTube](http://hackmycab.com/downloads/ytthumb2.jpg)](https://www.youtube.com/watch?v=iJcCQy9E0nU)
 
 ##Main Hardware
